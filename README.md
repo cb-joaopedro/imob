@@ -50,7 +50,7 @@ O banco de dados será disponibilizado em um arquivo .sql. Baixe e importe-o par
 
 Clone este repositório em seu ambiente local:
 
-git clone https://github.com/seuusuario/nome-do-repositorio.git
+git clone https://github.com/cb-joaopedro/imob.git
 
 No diretório raiz do projeto, configure o arquivo de conexão ao banco de dados:
 
